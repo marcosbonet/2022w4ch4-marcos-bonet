@@ -1,0 +1,10 @@
+.header {
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header h1 {
+    color: rgb(42, 25, 88);
+}
